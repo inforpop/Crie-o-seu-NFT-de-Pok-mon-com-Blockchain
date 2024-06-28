@@ -1,0 +1,15 @@
+{
+  "name": "Pikachu",
+  "description": "A wild Pikachu appeared!",
+  "image": "https://link-to-your-image.com/pikachu.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Level",
+      "value": 12
+    }
+  ]
+}
