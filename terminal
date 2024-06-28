@@ -9,3 +9,14 @@ No terminal do projeto Truffle, compile e
 
 truffle compile
 truffle migrate --network development
+
+truffle console
+Dentro do console, você pode executar comandos
+
+javascript
+
+
+let instance = await PokemonNFT.deployed()
+instance.
+instance
+createPokemonNFT("https://link-to-your-metadata.com/metadata/1")
