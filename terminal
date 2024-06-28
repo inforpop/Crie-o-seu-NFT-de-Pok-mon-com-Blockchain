@@ -1,0 +1,11 @@
+dep
+deploy(PokemonNFT);
+};
+6. Implantar o Cont
+Execute o Ganache para ter um blockchain local roda
+
+ganache-cli
+No terminal do projeto Truffle, compile e
+
+truffle compile
+truffle migrate --network development
